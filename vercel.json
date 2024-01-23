@@ -1,15 +1,5 @@
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "Iniciante em Programação/js-curso-2-aula1/js-curso-2-aula_-",
-      "use": "@vercel/static-build"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/js-curso-2-aula_-/(.*)",
-      "dest": "/Iniciante em Programação/js-curso-2-aula1/js-curso-2-aula_-/$1"
-    }
-  ]
+{ 
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ] 
 }
