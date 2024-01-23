@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "C:\\Workspace\\t6-one-alura\\Iniciante em Programação\\js-curso-2-aula1\\js-curso-2-aula_-",
+      "src": "https://github.com/Gabriellm-dev/t6-one-alura/tree/main/Iniciante%20em%20Programa%C3%A7%C3%A3o/js-curso-2-aula1/js-curso-2-aula_-",
       "use": "@vercel/static-build"
     }
   ]
